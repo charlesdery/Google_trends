@@ -32,4 +32,5 @@ date|Score|isPartial|ID|Timestamp|Source
 
 ## Future Improvements
 
-Google tends to block your IP after a few hundreds of searches. I would like to set up the program in Google Colab such that IP rotation becomes possible as you restart the instance.
+
+Google tends to temporarily block your IP after a few hundreds of searches. I would like to set up the program in Google Colab such that IP rotation becomes possible as you restart the instance.
