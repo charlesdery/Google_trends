@@ -2,7 +2,7 @@
 
 ## Description
 
-*Disclaimer: this code is very messy I have increased my knowledge of best practices and would structure/code very differently. Until I have a more structured project to showcase, feel free to review what I did.*
+*Disclaimer: this project is messy and I have increased my knowledge of projects best practices since… Nevertheless, until I have a more structured project to showcase, feel free to review what I did and reach out if you have any questions.*
 
  This program loads a table of strings to be searched by Google Trends and then generates those searches in a loop, saving each search results timeseries as a CSV file.
  
