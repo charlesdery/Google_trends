@@ -1,4 +1,4 @@
-# Scaling_Google_Trends
+# Scaling Google Trends
 
 ## Description
 
