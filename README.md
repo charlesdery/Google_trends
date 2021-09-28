@@ -17,12 +17,13 @@ Leveraging the [PyTrends](https://github.com/GeneralMills/pytrends)  package, th
  
  Finally, The program aggregates all search results CSV files into a single file to be saved in AWS S3.
  
+ ### Output
  
 date|Score|isPartial|ID|Timestamp|Source
 --- | --- | --- | --- | --- | ---
-2019-06-16|0|False|ILV.Illuvium|2021-08-21 13:27:52|Google Trends
-2019-06-23|0|False|ILV.Illuvium|2021-08-21 13:27:52|Google Trends
-2019-06-30|0|False|ILV.Illuvium|2021-08-21 13:27:52|Google Trends
-2019-07-07|0|False|ILV.Illuvium|2021-08-21 13:27:52|Google Trends
-2019-07-14|0|False|ILV.Illuvium|2021-08-21 13:27:52|Google Trends
-2019-07-21|0|False|ILV.Illuvium|2021-08-21 13:27:52|Google Trends
+2019-06-16|20|False|ILV.Illuvium|2021-08-21 13:27:52|Google Trends
+2019-06-23|26|False|ILV.Illuvium|2021-08-21 13:27:52|Google Trends
+2019-06-30|31|False|ILV.Illuvium|2021-08-21 13:27:52|Google Trends
+2019-07-07|35|False|ILV.Illuvium|2021-08-21 13:27:52|Google Trends
+2019-07-14|37|False|ILV.Illuvium|2021-08-21 13:27:52|Google Trends
+2019-07-21|41|False|ILV.Illuvium|2021-08-21 13:27:52|Google Trends
