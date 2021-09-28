@@ -27,3 +27,8 @@ date|Score|isPartial|ID|Timestamp|Source
 2019-07-07|35|False|ILV.Illuvium|2021-08-21 13:27:52|Google Trends
 2019-07-14|37|False|ILV.Illuvium|2021-08-21 13:27:52|Google Trends
 2019-07-21|41|False|ILV.Illuvium|2021-08-21 13:27:52|Google Trends
+
+
+### Future Improvements
+
+Google tends to block your IP after a few hundreds of searches. I would like to set up the program in Google Colab such that IP rotation becomes possible as you restart the instance.
