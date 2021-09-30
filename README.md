@@ -6,7 +6,7 @@
 
 ## Motivation
 
-Google Trends provide key behavioural insights into the digital community of investors. However, scaling the analytics to thousands of searches is key when overseeing the entire crypto space. This program aims to scale the searches of string keywords such that it can be incorporatedIt into your workflow.
+Google Trends provide key behavioural insights into the digital community of investors. However, scaling the analytics to thousands of searches is key when overseeing the entire crypto space. This program aims to scale the searches of string keywords such that it can be incorporated to your workflow.
 
 
 ## Solution
