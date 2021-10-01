@@ -2,7 +2,7 @@
 
 ## Description
 
-*Disclaimer: this project is messy and I have increased my knowledge of projects best practices since… Nevertheless, until I have a more structured project to showcase, feel free to review what I did and reach out if you have any questions.*
+*Disclaimer: this project is messy and I have increased my knowledge of projects structuring since… Nevertheless, until I have a more structured project to showcase, feel free to review what I did and reach out if you have any questions.*
 
 ## Motivation
 
